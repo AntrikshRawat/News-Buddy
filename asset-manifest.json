@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AntrikshRawat/News-Buddy.git/static/css/main.52de9e74.css",
+    "main.js": "/AntrikshRawat/News-Buddy.git/static/js/main.225c8dcf.js",
+    "static/js/453.045f6b4a.chunk.js": "/AntrikshRawat/News-Buddy.git/static/js/453.045f6b4a.chunk.js",
+    "index.html": "/AntrikshRawat/News-Buddy.git/index.html",
+    "main.52de9e74.css.map": "/AntrikshRawat/News-Buddy.git/static/css/main.52de9e74.css.map",
+    "main.225c8dcf.js.map": "/AntrikshRawat/News-Buddy.git/static/js/main.225c8dcf.js.map",
+    "453.045f6b4a.chunk.js.map": "/AntrikshRawat/News-Buddy.git/static/js/453.045f6b4a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52de9e74.css",
+    "static/js/main.225c8dcf.js"
+  ]
+}
